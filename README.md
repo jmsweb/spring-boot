@@ -142,12 +142,13 @@ I use [Git](http://github.com/) for versioning. For the versions available, see 
 ## Authors
 
 * **Jason Schwebke** - *Initial work* - [jmsweb](https://github.com/jmsweb)
+* [jmsweb GitHub Pages](jmsweb.github.io)
 
 See also the list of [contributors](https://github.com/jmsweb/spring-boot/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the Apache 2.0 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
