@@ -13,7 +13,7 @@
         <java-version>11</java-version>
 
         <!-- Spring Boot version -->
-        <spring-version>2.2.7.RELEASE</spring-version>
+        <spring-version>2.5.12</spring-version>
 
         <!-- Tomcat Embed -->
         <jasper-version>9.0.34</jasper-version>
